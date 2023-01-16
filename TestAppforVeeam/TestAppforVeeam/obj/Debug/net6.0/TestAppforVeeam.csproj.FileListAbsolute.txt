@@ -1,0 +1,15 @@
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\bin\Debug\net6.0\TestAppforVeeam.exe
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\bin\Debug\net6.0\TestAppforVeeam.deps.json
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\bin\Debug\net6.0\TestAppforVeeam.runtimeconfig.json
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\bin\Debug\net6.0\TestAppforVeeam.dll
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\bin\Debug\net6.0\TestAppforVeeam.pdb
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\obj\Debug\net6.0\TestAppforVeeam.csproj.AssemblyReference.cache
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\obj\Debug\net6.0\TestAppforVeeam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\obj\Debug\net6.0\TestAppforVeeam.AssemblyInfoInputs.cache
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\obj\Debug\net6.0\TestAppforVeeam.AssemblyInfo.cs
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\obj\Debug\net6.0\TestAppforVeeam.csproj.CoreCompileInputs.cache
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\obj\Debug\net6.0\TestAppforVeeam.dll
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\obj\Debug\net6.0\refint\TestAppforVeeam.dll
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\obj\Debug\net6.0\TestAppforVeeam.pdb
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\obj\Debug\net6.0\TestAppforVeeam.genruntimeconfig.cache
+D:\Work\Projects\C#\TestAppforVeeam\TestAppforVeeam\obj\Debug\net6.0\ref\TestAppforVeeam.dll

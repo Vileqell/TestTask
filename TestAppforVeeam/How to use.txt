@@ -1,0 +1,5 @@
+По заданию 3 аргумента:
+a process name, its maximum lifetime
+(in minutes) and a monitoring frequency (in minutes, as well)
+Введите их в порядке очереди через пробел после названия экзешника
+Пример: TestAppforVeeam\TestAppforVeeam\bin\Debug\net6.0>TestAppforVeeam.exe notepad 1 1
